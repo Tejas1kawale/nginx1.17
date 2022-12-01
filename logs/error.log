@@ -1,0 +1,6 @@
+
+2022/11/30 12:25:16 [notice] 8992#3924: signal process started
+2022/11/30 12:25:49 [notice] 8220#13256: signal process started
+2022/11/30 12:25:49 [error] 8220#13256: CreateFile() "C:\server\Nginx1.17/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2022/11/30 12:44:35 [error] 9348#10560: *25 CreateFile() "C:\server\Nginx1.17/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8050", referrer: "http://localhost:8050/"
+2022/11/30 14:54:13 [error] 9348#10560: *63 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
